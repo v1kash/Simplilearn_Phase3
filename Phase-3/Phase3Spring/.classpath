@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/Vikash/Desktop/FR Training/Simplilearn/Jar Files/Jar Files/Springs/aopalliance.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Vikash/Desktop/FR Training/Simplilearn/Jar Files/Jar Files/Springs/aspectjrt-1.9.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Vikash/Desktop/FR Training/Simplilearn/Jar Files/Jar Files/Springs/aspectjweaver-1.9.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Vikash/Desktop/FR Training/Simplilearn/Jar Files/Jar Files/Springs/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Vikash/Desktop/FR Training/Simplilearn/Jar Files/Jar Files/Springs/commons-logging-1.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Vikash/Desktop/FR Training/Simplilearn/Jar Files/Jar Files/Springs/spring-asm-3.1.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Vikash/Desktop/FR Training/Simplilearn/Jar Files/Jar Files/Springs/spring-beans-3.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Vikash/Desktop/FR Training/Simplilearn/Jar Files/Jar Files/Springs/spring-context-3.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Vikash/Desktop/FR Training/Simplilearn/Jar Files/Jar Files/Springs/spring-core-3.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Vikash/Desktop/FR Training/Simplilearn/Jar Files/Jar Files/Springs/spring-expression-3.2.3.release.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Vikash/Desktop/FR Training/Simplilearn/Jar Files/Jar Files/Spring_MVC/org.springframework.jdbc-3.0.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Vikash/Desktop/FR Training/Simplilearn/Jar Files/Jar Files/Spring_MVC/org.springframework.web-3.0.6.release.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Vikash/Desktop/FR Training/Simplilearn/Jar Files/Jar Files/Spring_MVC/spring-dao-2.0.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Vikash/Desktop/FR Training/Simplilearn/Jar Files/Jar Files/Spring_MVC/spring-web-servlet.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
